@@ -1,0 +1,6 @@
+{
+  "name": "ParkHub",
+  "description": "Real-time parking spot availability finder across major cities with instant price, distance, and vehicle type filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
